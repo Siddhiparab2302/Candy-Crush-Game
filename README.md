@@ -1,8 +1,14 @@
 # Candy-Crush-Game
+
+#Start Game
 ![WhatsApp Image 2022-03-09 at 8 35 00 PM (5)](https://user-images.githubusercontent.com/54452217/157682900-0ae97a7f-cc8a-4eb9-ac17-66b7cf2bb04e.jpeg)
+#Enter Your Name
 ![WhatsApp Image 2022-03-09 at 8 35 00 PM (6)](https://user-images.githubusercontent.com/54452217/157682912-a1aee209-2fbe-4330-8dce-806df57d4a9f.jpeg)
+#Select Level
 ![WhatsApp Image 2022-03-09 at 8 35 00 PM (2)](https://user-images.githubusercontent.com/54452217/157683052-43bd5e2c-6f7a-4ba4-8f55-19fbe711843f.jpeg)
+#Please confirm you wanna play
 ![WhatsApp Image 2022-03-09 at 8 35 00 PM (3)](https://user-images.githubusercontent.com/54452217/157683106-b2e2b060-4bc9-48f5-93b2-418a9e1bf1f6.jpeg)
+#Play Game
 ![WhatsApp Image 2022-03-09 at 8 35 00 PM (4)](https://user-images.githubusercontent.com/54452217/157683132-923e5925-f890-4f4c-a446-8f5cb26cc390.jpeg)
 ![WhatsApp Image 2022-03-09 at 8 35 01 PM](https://user-images.githubusercontent.com/54452217/157683163-ecc54a5f-d935-4bf3-ba0f-7d10fd8361e1.jpeg)
 ![WhatsApp Image 2022-03-09 at 8 35 01 PM (1)](https://user-images.githubusercontent.com/54452217/157683193-c1cfc035-252b-4069-adf1-6bf700f070f1.jpeg)
