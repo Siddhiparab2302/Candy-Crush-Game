@@ -1,6 +1,7 @@
 # Candy-Crush-Game
 I made this game in unity.This game is same as Candy Crush Game.
-Also i have added levels where User win each level by completing its goal.
+Also i have added levels where User win each level by completing its goal,which is usually 
+limited by the number of moves he is allowed to perform
 ![WhatsApp Image 2022-03-09 at 8 35 00 PM (5)](https://user-images.githubusercontent.com/54452217/157682900-0ae97a7f-cc8a-4eb9-ac17-66b7cf2bb04e.jpeg)
 ![WhatsApp Image 2022-03-09 at 8 35 00 PM (6)](https://user-images.githubusercontent.com/54452217/157682912-a1aee209-2fbe-4330-8dce-806df57d4a9f.jpeg)
 ![WhatsApp Image 2022-03-09 at 8 35 00 PM (2)](https://user-images.githubusercontent.com/54452217/157683052-43bd5e2c-6f7a-4ba4-8f55-19fbe711843f.jpeg)
